@@ -1,0 +1,27 @@
+1. Testing & Optimization
+Test your portfolio across different browsers (Chrome, Firefox, Safari, Edge)
+Check mobile responsiveness on various devices
+Run Google Lighthouse audit to verify your 90+ score
+Test all interactive features (dark mode, navigation, form submission, etc.)
+Validate HTML and CSS using W3C validators
+2. Add Missing Assets
+Ensure you have these files in your project:
+
+hero-pic.jpg - Hero section background image
+about-me-pic.jpg - About section image
+RajaMahantyResume.pdf - Your resume file
+
+3. Implement Contact Form Backend
+Your form currently only logs data. Consider:
+
+Using Formspree for easy form handling
+Setting up EmailJS for client-side email sending
+Creating a serverless function (Vercel/Netlify) to handle form submissions
+
+
+5. Add Project Images
+
+
+6. SEO Optimization
+
+7. Add Analytics
